@@ -1,10 +1,10 @@
+/* Import Tailwind CSS framework */
+@import "tailwindcss";
+
 /* Import Google Fonts for the application */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
-
-/* Import Tailwind CSS framework */
-@import "tailwindcss";
 
 /* These variables define your app's design system. They're used throughout
    the Tailwind configuration and can be referenced anywhere in your CSS. */
