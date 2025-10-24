@@ -13,7 +13,7 @@ const MovieCard = ({ movie }) => {
 
                 <div className="content">
                     <div className="rating">
-                       <img src={`${import.meta.env.BASE_URL}star.svg`} alt="Star Icon" />
+                       <img src="./public/star.svg" alt="Star Icon" />
                         <p>{movie.vote_average ? movie.vote_average.toFixed(1) : 'N/A' }</p>
                     </div>
 
