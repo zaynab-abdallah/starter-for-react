@@ -8,7 +8,7 @@ const Search = ({searchTerm,setSearchTerm}) => {
     return (
     <div className="search">
         <div>
-        <img src={`${import.meta.env.BASE_URL}search.svg`} alt="search" />
+        <img src="./public/search.svg" alt="search" />
 
         <input
             type="text"
